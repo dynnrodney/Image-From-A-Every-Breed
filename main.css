@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  margin: 15px;
+}
+
+.submit {
+  width: 110px;
+  height: 30px;
+  margin: 15px;
+}
+
+.newPicture {
+  width: 350px;
+  border: 2px solid black;
+  margin: 15px;
+}
+
+.hidden {
+  display: none;
+}
